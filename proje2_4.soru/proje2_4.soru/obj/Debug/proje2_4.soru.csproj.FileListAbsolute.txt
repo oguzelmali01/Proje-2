@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\proje2_4.soru\proje2_4.soru\bin\Debug\proje2_4.soru.exe.config
+C:\Users\Acer\source\repos\proje2_4.soru\proje2_4.soru\bin\Debug\proje2_4.soru.exe
+C:\Users\Acer\source\repos\proje2_4.soru\proje2_4.soru\bin\Debug\proje2_4.soru.pdb
+C:\Users\Acer\source\repos\proje2_4.soru\proje2_4.soru\obj\Debug\proje2_4.soru.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\proje2_4.soru\proje2_4.soru\obj\Debug\proje2_4.soru.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\proje2_4.soru\proje2_4.soru\obj\Debug\proje2_4.soru.exe
+C:\Users\Acer\source\repos\proje2_4.soru\proje2_4.soru\obj\Debug\proje2_4.soru.pdb

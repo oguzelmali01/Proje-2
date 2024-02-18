@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\olesine\olesine\bin\Debug\net6.0\olesine.exe
+C:\Users\Acer\source\repos\olesine\olesine\bin\Debug\net6.0\olesine.deps.json
+C:\Users\Acer\source\repos\olesine\olesine\bin\Debug\net6.0\olesine.runtimeconfig.json
+C:\Users\Acer\source\repos\olesine\olesine\bin\Debug\net6.0\olesine.dll
+C:\Users\Acer\source\repos\olesine\olesine\bin\Debug\net6.0\olesine.pdb
+C:\Users\Acer\source\repos\olesine\olesine\obj\Debug\net6.0\olesine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\olesine\olesine\obj\Debug\net6.0\olesine.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\olesine\olesine\obj\Debug\net6.0\olesine.AssemblyInfo.cs
+C:\Users\Acer\source\repos\olesine\olesine\obj\Debug\net6.0\olesine.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\olesine\olesine\obj\Debug\net6.0\olesine.dll
+C:\Users\Acer\source\repos\olesine\olesine\obj\Debug\net6.0\refint\olesine.dll
+C:\Users\Acer\source\repos\olesine\olesine\obj\Debug\net6.0\olesine.pdb
+C:\Users\Acer\source\repos\olesine\olesine\obj\Debug\net6.0\olesine.genruntimeconfig.cache
+C:\Users\Acer\source\repos\olesine\olesine\obj\Debug\net6.0\ref\olesine.dll
